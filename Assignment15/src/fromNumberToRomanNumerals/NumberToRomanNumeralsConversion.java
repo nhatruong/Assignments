@@ -1,9 +1,10 @@
 package fromNumberToRomanNumerals;
 
 public class NumberToRomanNumeralsConversion {
+	//max value
 	int[] numberValue = new int[13];
 	String[] romanNumeral = new String[13];
-	//this is a constructor
+	//this is  a constructor
 	public NumberToRomanNumeralsConversion() {		
 		numberValue[0] = 1;
 		numberValue[1] = 4;
