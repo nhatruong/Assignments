@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-
+//hang man
 public class Hangman {
 
 	private ArrayList<String> wordsList= new ArrayList<String>();
